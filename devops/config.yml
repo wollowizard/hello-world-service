@@ -1,4 +1,2 @@
 build:
   type: nodejs12
-image:
-  name: hello-world-service
