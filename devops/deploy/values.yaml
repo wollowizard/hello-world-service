@@ -1,3 +1,1 @@
 namespace: hello-world
-app:
-  name: hello-world-service
