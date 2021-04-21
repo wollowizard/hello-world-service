@@ -1,0 +1,2 @@
+BUILD_TYPE=nodejs12
+APP_NAME=hello-world-service
